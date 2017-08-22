@@ -1,0 +1,21 @@
+{
+  "name": "iota-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Cummins <jimthedev@gmail.com> (http://github.com/jimthedev)",
+  "license": "MIT",
+  "dependencies": {
+    "@std/esm": "^0.5.1",
+    "dotenv": "^4.0.0",
+    "iotap": "^2.0.0",
+    "pify": "^3.0.0"
+  },
+  "@std/esm": {
+    "esm": "js"
+  }
+}
